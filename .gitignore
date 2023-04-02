@@ -19,3 +19,13 @@ Proiect_3/test.ipynb
 
 Proiect_G2G/data/
 Proiect_G2G/scripts/__pycache__/
+Proiect_G2G/__pycache__/
+Proiect_G2G/models/__pycache__/
+Proiect_G2G/models/__init__.py
+Proiect_G2G/muse/__pycache__/
+Proiect_G2G/experiments/eval/
+Proiect_G2G/experiments/v01/
+Proiect_G2G/experiments/v01_drums/
+Proiect_G2G/experiments/v01_drums_vel/
+Proiect_G2G/experiments/v01_vel/
+Proiect_G2G/eval/__init__.py
