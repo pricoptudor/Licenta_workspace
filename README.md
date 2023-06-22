@@ -131,7 +131,7 @@ Github: [Profile page](https://github.com/pricoptudor)
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <br/>
 
@@ -143,7 +143,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [contributors-shield]: https://img.shields.io/github/contributors/pricoptudor/Licenta_workspace.svg?style=for-the-badge
 [contributors-url]: https://github.com/pricoptudor/Licenta_workspace/graphs/contributors
 [license-shield]: https://img.shields.io/github/license/pricoptudor/Licenta_workspace.svg?style=for-the-badge
-[license-url]: https://github.com/pricoptudor/Licenta_workspace/blob/master/LICENSE.txt
+[license-url]: https://github.com/pricoptudor/Licenta_workspace/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/tudorc-pricop/
 [product-screenshot]: images/screenshot.png
