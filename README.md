@@ -12,7 +12,7 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/pricoptudor/Licenta - Music.pdf"><strong>Explore the documentation »</strong></a>
+    <a href="https://github.com/pricoptudor/Licenta_workspace/blob/main/Licenta%20-%20Music.pdf"><strong>Explore the documentation »</strong></a>
     <br />
     <br />
   </p>
@@ -61,10 +61,10 @@ This repository contains the notebooks and data used in my Bachelor's thesis pro
 This project is organized into 4 main directories:
 
 <ol>
-    <li><a href="https://github.com/pricoptudor/Project_1">Project_1</a>: Data analysis, Machine Learning, Deep Learning on <b>GTZAN</b> dataset.</li>
-    <li><a href="https://github.com/pricoptudor/Project_2">Project_2</a>: Data analysis on <b>FMA</b> dataset.</li>
-    <li><a href="https://github.com/pricoptudor/Project_3">Project_3</a>: Data generation, Data analysis, Machine Learning, Deep Learning on <b>Spotify</b> dataset.</li>
-    <li><a href="https://github.com/pricoptudor/Project_4">Project_4</a>: Music generation with <b>VAEs</b>.</li>
+    <li><a href="https://github.com/pricoptudor/Licenta_workspace/tree/main/Project_1">Project_1</a>: Data analysis, Machine Learning, Deep Learning on <b>GTZAN</b> dataset.</li>
+    <li><a href="https://github.com/pricoptudor/Licenta_workspace/tree/main/Project_2">Project_2</a>: Data analysis on <b>FMA</b> dataset.</li>
+    <li><a href="https://github.com/pricoptudor/Licenta_workspace/tree/main/Project_3">Project_3</a>: Data generation, Data analysis, Machine Learning, Deep Learning on <b>Spotify</b> dataset.</li>
+    <li><a href="https://github.com/pricoptudor/Licenta_workspace/tree/main/Project_4">Project_4</a>: Music generation with <b>VAEs</b>.</li>
 </ol>
 
 This collection of notebooks was built and tuned inside an environment from Anaconda with `Python==3.10.9`. Few of the technologies used:
@@ -86,10 +86,10 @@ This collection of notebooks was built and tuned inside an environment from Anac
 For each project, download the dataset required for experimentation:
 
 <ul>
-    <li><a href="https://github.com/pricoptudor/Project_1">Project_1</a>: <b>GTZAN</b> dataset: <a href="https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification">Explore GTZAN</a> </li>
-    <li><a href="https://github.com/pricoptudor/Project_2">Project_2</a>: <b>FMA</b> dataset: <a href="https://github.com/mdeff/fma">Explore FMA</a></li>
-    <li><a href="https://github.com/pricoptudor/Project_3">Project_3</a>: <b>Spotify</b> dataset: <a href="https://www.kaggle.com/datasets/pricoptudor/spotify-dataset">Explore Spotify features</a> or <a href="https://www.kaggle.com/datasets/pricoptudor/spotify-image-dataset">Explore Spotify melspectrograms</a></li>
-    <li><a href="https://github.com/pricoptudor/Project_4">Project_4</a>: <b>Jazz</b> dataset: <a href="https://www.kaggle.com/datasets/saikayala/jazz-ml-ready-midi?select=Jazz-midi.csv">Explore Jazz</a></li>
+    <li><a href="https://github.com/pricoptudor/Licenta_workspace/tree/main/Project_1">Project_1</a>: <b>GTZAN</b> dataset: <a href="https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification">Explore GTZAN</a> </li>
+    <li><a href="https://github.com/pricoptudor/Licenta_workspace/tree/main/Project_2">Project_2</a>: <b>FMA</b> dataset: <a href="https://github.com/mdeff/fma">Explore FMA</a></li>
+    <li><a href="https://github.com/pricoptudor/Licenta_workspace/tree/main/Project_3">Project_3</a>: <b>Spotify</b> dataset: <a href="https://www.kaggle.com/datasets/pricoptudor/spotify-dataset">Explore Spotify features</a> or <a href="https://www.kaggle.com/datasets/pricoptudor/spotify-image-dataset">Explore Spotify melspectrograms</a></li>
+    <li><a href="https://github.com/pricoptudor/Licenta_workspace/tree/main/Project_4">Project_4</a>: <b>Jazz</b> dataset: <a href="https://www.kaggle.com/datasets/saikayala/jazz-ml-ready-midi?select=Jazz-midi.csv">Explore Jazz</a></li>
 </ul>
 
 <br/>
@@ -146,7 +146,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [license-url]: https://github.com/pricoptudor/Licenta_workspace/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/tudorc-pricop/
-[product-screenshot]: images/screenshot.png
 [Tensorflow]: https://img.shields.io/badge/tensorflow-000000?style=for-the-badge&logo=tensorflow&logoColor=white
 [Tensorflow-url]: https://www.tensorflow.org/
 [Keras]: https://img.shields.io/badge/Keras-DD0031?style=for-the-badge&logo=keras&logoColor=white
