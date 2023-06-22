@@ -103,11 +103,11 @@ For each project, download the dataset required for experimentation:
 
 
 VAE-generated: 
-- [Bad example](https://github.com/pricoptudor/Project_4/VAE_bad.mid)
-- [Good with 0.7 temperature](https://github.com/pricoptudor/Project_4/VAE_good_0.7.mid)
+- [Bad example](https://github.com/pricoptudor/Licenta_workspace/blob/main/Project_4/VAE_bad.mid)
+- [Good with 0.7 temperature](https://github.com/pricoptudor/Licenta_workspace/blob/main/Project_4/VAE_good_0.7.mid)
 
 TransformerVAE-generated:
-- [Good with 0.3 temperature](https://github.com/pricoptudor/Project_4/TransformerVAE_good_0.3.mid)
+- [Good with 0.3 temperature](https://github.com/pricoptudor/Licenta_workspace/blob/main/Project_4/TransformerVAE_good_0.3.mid)
 
 <br/>
 
